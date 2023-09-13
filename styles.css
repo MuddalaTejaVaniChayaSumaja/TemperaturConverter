@@ -1,0 +1,52 @@
+
+h1{
+ text-align: center;
+ padding-top: 20px;
+color: wheat;
+text-shadow: 5px 5px 8px black;
+}
+#celsius{
+    
+margin-left: 50px;
+}
+#fahrenheit{
+    margin-left: 24px;
+}
+#kelvin{
+    margin-left: 56px;
+}
+input{
+    height: 25px;
+    width: 300px;
+    margin-top:20px;
+    border-radius: 5px;
+}
+label{
+    font-size: 20px;
+    margin-left:5px;
+}
+button{
+    background-color:rgb(144, 148, 144);
+    border-radius: 40px;
+    margin-top: 25px;
+    margin-left: 60px;
+    font-size: 20px;
+    width:150px;
+    height:40px;
+}
+body{
+    background: black;
+    color:white;
+}
+.Main{
+    height: 350px;
+    width: 500px;
+    border: 3px solid gray;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: rgb(65, 63, 63);
+}
+.green-color {
+    color:greenyellow;
+}
